@@ -1,40 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+----------------------------------- <br>
+Nama  : Annisa Rahmania Putri <br>
+Kelas : 4k-RPL <br>
+NIM   : 244107027009 <br>
+----------------------------------- <br> 
 
-## Getting Started
+Praktikum <br>
+1. Instalasi <br>
 
-First, run the development server:
+![image](https://github.com/user-attachments/assets/5337a28c-da6f-4f18-b762-2b3d5fedbcee)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+2. Membuat Halaman dengan Server-Side Rendering (SSR) <br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://github.com/user-attachments/assets/814475af-3269-45e2-9b05-8ba1697dace2) 
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Hasil
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+![image](https://github.com/user-attachments/assets/de08384b-c60e-47d5-9103-4d5258b20853)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+3. Menggunakan Static Site Generation (SSG)
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![image](https://github.com/user-attachments/assets/5f5f3f2b-3823-42b0-92dd-7a882bdc3c82)
 
-## Learn More
+Hasil
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/user-attachments/assets/c6ed3f4b-6fd1-4701-bfa4-6cbd36f88fba)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+4. Menggunakan Dynamic Routes
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+![image](https://github.com/user-attachments/assets/34b2a549-8522-49ee-96b0-a27f400e9767)
 
-## Deploy on Vercel
+Hasil
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![image](https://github.com/user-attachments/assets/24042152-f1ca-4282-8cdc-7d6059b2c8cd)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+5. Menggunakan API Routes
+
+![image](https://github.com/user-attachments/assets/77e2b107-8382-4471-9d54-c7d668e3acfc)
+
+Hasil 
+
+![image](https://github.com/user-attachments/assets/ea7273e0-4596-4fa7-b1c3-039e23bc2aee)
