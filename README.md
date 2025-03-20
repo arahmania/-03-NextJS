@@ -40,3 +40,14 @@ Hasil
 Hasil 
 
 ![image](https://github.com/user-attachments/assets/ea7273e0-4596-4fa7-b1c3-039e23bc2aee)
+
+Tugas <br>
+1. Daftar pengguna dari API https://jsonplaceholder.typicode.com/users <br>
+![image](https://github.com/user-attachments/assets/7d46f144-1dd7-498a-b534-65420b6cffd0)
+
+2. Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID. <br>
+![image](https://github.com/user-attachments/assets/a81a8f67-4421-49d8-9d4d-39450f56d313)
+
+3. API route yang mengembalikan data cuaca dari AP <br>
+![image](https://github.com/user-attachments/assets/79c14270-173a-4b9a-9d0f-4ad026b968e9)
+
